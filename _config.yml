@@ -1,0 +1,6 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Ankur Sharma
+description: "Cybersecurity Professional | Vulnerability Management Expert | AI & Cloud Security Enthusiast"
+             "Experienced information security engineer with over 8 years in vulnerability management, risk remediation, and security operations across enterprise environments. Skilled in leveraging automation, cloud security practices (AWS), and emerging AI tools to enhance security workflows and threat response. Actively pursuing OSCP certification and exploring the intersection of cybersecurity and LLM-driven automation. Passionate about building scalable, intelligent security solutions and committed to continuous learning and innovation."
